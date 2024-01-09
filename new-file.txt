@@ -5,3 +5,5 @@ creating bug-fix branch
 now the file new-file is modify
 ok
 >>>>>>> bug-fix
+now again modify new file in main branch
+after conflict branch ok
