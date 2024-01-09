@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 :
+=======
+creating bug-fix branch 
+now the file new-file is modify
+ok
+>>>>>>> bug-fix
