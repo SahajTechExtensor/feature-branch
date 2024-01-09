@@ -11,3 +11,5 @@ after conflict branch ok
 =======
 Modify new file in conflict-branch
 >>>>>>> conflict-branch
+
+Make an undesired change to new-file.txt in main ok
