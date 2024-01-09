@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 :
 =======
 creating bug-fix branch 
@@ -7,3 +8,6 @@ ok
 >>>>>>> bug-fix
 now again modify new file in main branch
 after conflict branch ok
+=======
+Modify new file in conflict-branch
+>>>>>>> conflict-branch
