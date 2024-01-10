@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-:
-
 creating bug-fix branch 
 now the file new-file is modify
 ok
@@ -10,5 +6,9 @@ now again modify new file in main branch
 after conflict branch ok
 
 Modify new file in conflict-branc
-Hello:
+Hello
 Make an undesired change to new-file.txt in main ok
+
+Modify new file in conflict-branch Heee
+ok commit
+>>>>>>> conflict-branch
