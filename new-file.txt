@@ -12,3 +12,5 @@ Make an undesired change to new-file.txt in main ok
 Modify new file in conflict-branch Heee
 ok commit
 >>>>>>> conflict-branch
+
+Make an undesired change to new-file.txt in main ok
