@@ -1,1 +1,2 @@
-Modify new file in conflict-branch
+Modify new file in conflict-branch Heee
+ok commit
